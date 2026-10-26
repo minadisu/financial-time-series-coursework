@@ -1,6 +1,6 @@
 # Financial Time Series Coursework | 金融时间序列课程作业
 
-## 中文说明
+## 
 
 本仓库整理金融时间序列课程的学生作业，包括 10 份 R 脚本和 4 份 Word 作业报告。
 
@@ -46,7 +46,7 @@ source("1.1.R", encoding = "UTF-8")
 
 脚本的数据路径已改为 `data/文件名`；其余分析代码保留原作业内容，部分脚本仍包含 `install.packages()`。本次整理未重新运行模型或验证作业结论。`.gitignore` 排除数据目录中的数据文件和常见 R 会话文件。
 
-## English
+## 
 
 This repository contains student coursework for a financial time series course: 10 R scripts and four Word reports. The course textbook is Ruey S. Tsay's *Analysis of Financial Time Series*, Third Edition.
 
