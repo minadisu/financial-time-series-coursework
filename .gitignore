@@ -1,0 +1,9 @@
+# Instructor-provided data are not distributed.
+/data/*
+!/data/.gitkeep
+
+# Local R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
